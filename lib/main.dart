@@ -134,7 +134,7 @@ class PortfolioScreen extends StatelessWidget {
                       ),
                     ),
                     TextSpan(
-                      text: 'Product Designer',
+                      text: 'Web Developer',
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
@@ -151,7 +151,7 @@ class PortfolioScreen extends StatelessWidget {
               // Bio Text
               const SizedBox(height: 20),
               const Text(
-                'Collaborating with highly skilled individuals, our agency delivers top-quality services.',
+                'Our agency, powered by expert professionals, provides exceptional web development services.',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 14,
